@@ -331,7 +331,6 @@
   }
 </style>
 
-<!-- Back to Top JavaScript -->
 <script>
   // Back to Top Button
   window.addEventListener('scroll', function() {
